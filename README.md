@@ -1,6 +1,6 @@
 # All Restaurants in Slidell-Mandeville-Covington (Metro), Louisiana, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 55 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `555317` |
 | Location | Slidell-Mandeville-Covington, LA |
 | Category | Restaurants |
-| Full dataset size | 364 records |
-| Free sample size | 25 records (6.87%) |
-| Last export | 2026-03-31T14:49:58.747474+00:00 |
+| Full dataset size | 558 records |
+| Free sample size | 55 records (9.86%) |
+| Last export | 2026-04-14T15:39:05.487728+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-slidell-mandeville-covington-metro-louisiana-us-sample-555317/releases/download/sample-latest/beamstation_555317_restaurants-us-slidellmandevillecovingtonla_SAMPLE_DIST.csv) |
 
 ## What is in this sample
