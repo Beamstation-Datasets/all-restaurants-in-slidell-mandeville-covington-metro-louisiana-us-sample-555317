@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0d78ddd9-7261-4728-ad5d-ff1c79fdf589",
+  "export_job_id": "e28e1e9b-2bf7-4994-94b8-10cd4d111c08",
   "id_short": 555317,
-  "published_at": "2026-04-17T19:38:11Z",
+  "published_at": "2026-04-21T19:32:50Z",
   "repo_name": "all-restaurants-in-slidell-mandeville-covington-metro-louisiana-us-sample-555317",
   "sample_asset_name": "beamstation_555317_restaurants-us-slidellmandevillecovingtonla_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/555317/beamstation_555317_restaurants-us-slidellmandevillecovingtonla_SAMPLE_DIST.csv",
-  "sample_records": 55,
-  "sample_sha256": "60fef4c2fe571e2c8d6d549ecc75f72bb8e166ccb9a7539d5fa7301a8c7e527b",
-  "sample_size_bytes": 223162,
-  "total_records": 558
+  "sample_records": 48,
+  "sample_sha256": "1f4849589a84f0488437081d978d1b2affed87e460e38bbe6298b5ee657e5a76",
+  "sample_size_bytes": 194240,
+  "total_records": 483
 }
